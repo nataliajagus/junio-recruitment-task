@@ -9,3 +9,5 @@ Start development mode
 ```sh
 npm run start:dev
 ```
+
+Live version: https://nataliajagus.github.io/junior-recruitment-task/
