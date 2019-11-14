@@ -5,7 +5,6 @@ import './scss/style.scss';
 const counterNumber = document.querySelector(".counter-number");
 let counter = 23;
 const counterInteval = setInterval(() => {
-  console.log(counter);
   counter--
   counterNumber.innerText = counter;
   if (counter === 0) {
